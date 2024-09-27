@@ -74,6 +74,9 @@ aside {
   background: #af670a;
   float: right;
 }
+#galeria{
+  margin-left: 30px;
+}
 
 section#visita{
 background: #cdc8b1;
@@ -86,8 +89,17 @@ background: url(../img/fundo-foto.png) no-repeat;
 float: left;
 padding: 15px ;
 }
+section#galeria  img{
+margin: 5px;
+margin-bottom: 30px;
+padding: 5px 6px 3px 1px;
+width: 100px;
+height: 100px;
+
+}
+
  h4{
-color: #86521a;
+color: #653107;
 text-transform: uppercase;
 padding-bottom: 3px;
 margin-bottom: 0;
